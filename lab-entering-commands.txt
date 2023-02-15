@@ -155,6 +155,6 @@ Copy and paste the output below.
 16.  In the following line....
 
 $ ls -a Desktop
-
+gjhjhkjhj
 What is the command, flag, argument, and prompt?
 ----------
